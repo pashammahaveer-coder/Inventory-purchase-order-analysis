@@ -44,8 +44,8 @@ This project helped me gain practical experience in data cleaning, data transfor
 
 ## Repository Contents
 
-- `analysis_queries.sql` – SQL queries used for analysis.
-- `inventory_dashboard.pbix` – Power BI dashboard.
+- `analysis schema.sql` – SQL queries used for analysis.
+- `inventory analysis.pbix` – Power BI dashboard.
 
 ## Author
 
